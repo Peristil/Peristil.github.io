@@ -1,2 +1,2 @@
-# Peristil.githud.io
+# Peristil.github.io
 Demo page
